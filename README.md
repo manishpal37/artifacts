@@ -1,3 +1,1 @@
-# artifacts
-
-Learning artifacts
+# Learning Github Actions - artifacts
